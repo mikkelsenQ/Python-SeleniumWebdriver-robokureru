@@ -1,5 +1,5 @@
 # robokureru
-Python program for automating enterin GAs in the steamgifts website.
+Python program for automating entering GAs in the steamgifts website.
 
 # Requirements
 
