@@ -1,9 +1,9 @@
 # robokureru
-Python program for automating entering GAs in the steamgifts website.
+Python program for automating entering GAs in the steamgifts website using Selenium Webdriver.
 
 # Requirements
 
-None other than Python. This python program runs with Linux (tested with Debian) but should run under any OS. 
+None other than Python and Selenium Webdriver. This python program runs with Linux (tested with Debian and Fedora) but should run under any OS. 
 
 If you're running it with OSX or windows, comment out the "import subprocess" "subprocess.check_output("play " + soundsystem, shell=True)" lines in 'mqgift.py'.
 
